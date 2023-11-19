@@ -1,9 +1,6 @@
 body {
     background-color: antiquewhite;
 }
-#container {
-    background-color: rgb(203, 146, 72);
-}
 
 header nav {
     display: flex;
@@ -40,6 +37,8 @@ h4 {
                          "item7 item8 item9";
     row-gap: 2em;
     column-gap: 2em;
+    max-width: 100%;
+    margin: 0;
     
 }
 img {
